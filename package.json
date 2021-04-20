@@ -1,0 +1,26 @@
+{
+  "name": "coinvesting-defi-token-core",
+  "version": "1.0.0",
+  "description": "Project to create the standard utility Token ERC-20 (COINVEX) from Coinventing DeFi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coinvesting-DeFi/coinvesting-defi-token-core.git"
+  },
+  "keywords": [
+    "Coinvesting",
+    "DeFi",
+    "ERC-20",
+    "Token",
+    "Utility"
+  ],
+  "author": "Coinvesting-DeFi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Coinvesting-DeFi/coinvesting-defi-token-core/issues"
+  },
+  "homepage": "https://github.com/Coinvesting-DeFi/coinvesting-defi-token-core#readme"
+}
